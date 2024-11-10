@@ -1,0 +1,12 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+    <!-- 填充的颜色 -->
+    <solid android:color="#f5cc5b" />
+    <!-- 设置左上角和右上角为半圆形 -->
+    <corners
+        android:topLeftRadius="25dp"
+        android:topRightRadius="25dp"
+        android:bottomLeftRadius="25dp"
+        android:bottomRightRadius="25dp"/>
+
+</shape>
